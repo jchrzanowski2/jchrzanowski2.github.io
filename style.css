@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+form {
+  margin-top: 20px;
+}
+
+#kleopatra-image {
+  float: right;
+  margin-left: 10px; 
+}
+
+#cleopatra-image {
+  float: right;
+  margin-left: 10px; 
+}
+
+#piramidy-image {
+  width: 570px;
+  height: 380px;
+}
+
+#dziedzictwo-page {
+  background-image: url('Depositphotos_117003682_L-1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
